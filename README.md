@@ -2,6 +2,10 @@
 
 A light package for compiling Sass and running a dev server
 
+### Source of the starting code ###
+Git repo: https://github.com/bradtraversy/sass_starter_pack
+Youtube Video: https://www.youtube.com/watch?v=rmXVmfx3rNo
+
 ### Version
 1.0.0
 
